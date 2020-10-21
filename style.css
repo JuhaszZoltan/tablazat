@@ -1,0 +1,12 @@
+table {
+  border: ridge 1px white;
+  border-spacing: 0px;
+}
+th {
+  background-color: red;
+  color: white;
+  border: none;
+}
+td {
+  border: groove 2px white;
+}
